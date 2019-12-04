@@ -38,24 +38,25 @@
     .second p {
         text-align: left;
         color: white;
-        font-weight: bold;
+        font-weight: normal;
         font-size: 25px;
         }
     .third span {
         color: red;
+        font-size: 30px;
         }
-    .third {
+    .third, .fourth, .sixth {
         text-align: left;
         color: white;
-        font-weight: bold;
+        font-weight: normal;
         font-size: 25px;
     }
-    .fourth {
+    /* .fourth {
         text-align: left;
         color: white;
-        font-weight: bold;
+        font-weight: normal;
         font-size: 25px;
-    }
+    } */
     .fourth span {
         color: rgb(8, 8, 116);
     }
@@ -63,18 +64,18 @@
         background: white;
         text-align: left;
         color: black;
-        font-weight: bold;
+        font-weight: normal;
         font-size: 25px;
     }
     .fifth span {
         color: red;
         }
-    .sixth {
+    /* .sixth {
         text-align: left;
         color: white;
-        font-weight: bold;
+        font-weight: normal;
         font-size: 25px;
-    }
+    } */
     .sixth span {
         color: red;
         }
