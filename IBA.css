@@ -1,0 +1,80 @@
+    html {
+        background: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;       
+    }
+    body {
+        margin-left: 400px;
+        background: black;
+        width: 700px;
+        align-content: center;
+        padding: 10px;
+    }
+    nav {
+        list-style: none;
+        display: flex;       
+    }
+    .Logo {       
+        background: black;        
+    }
+    /* .Logo2 {
+       margin-left: 400px;
+    }   */
+    <!-- Second-->
+    .second {
+        width: 700px;
+        /* display: flex; */
+        margin: 100%;
+        background: black;
+    }
+    .second h1 {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    }
+    .second span {
+    color: red;
+    }
+    .second p {
+        text-align: left;
+        color: white;
+        font-weight: bold;
+        font-size: 25px;
+        }
+    .third span {
+        color: red;
+        }
+    .third {
+        text-align: left;
+        color: white;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    .fourth {
+        text-align: left;
+        color: white;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    .fourth span {
+        color: rgb(8, 8, 116);
+    }
+    .fifth {
+        background: white;
+        text-align: left;
+        color: black;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    .fifth span {
+        color: red;
+        }
+    .sixth {
+        text-align: left;
+        color: white;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    .sixth span {
+        color: red;
+        }
